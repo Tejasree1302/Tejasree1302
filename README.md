@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>🔭 I’m currently working on<br>Python-based applications, automation scripts, and small backend projects to strengthen real-world problem-solving skills.<br><br>👯 I’m looking to collaborate on<br>Python projects, beginner-friendly open-source contributions, and backend or scripting-based applications.<br><br>🤝 I’m looking for help with<br>Advanced Python concepts, project structuring, and transitioning into frameworks like Django or Flask.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms with Python, backend development concepts, and database fundamentals.<br><br>💬 Ask me about<br>Python programming, logic building, scripting, and learning paths for beginners in development.<br><br>⚡ Fun fact<br>I enjoy breaking complex problems into simple Python solutions and automating repetitive tasks.
 
-<!--
-**Tejasree1302/Tejasree1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/galitejasree) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejagali577@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tejasree1302&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tejasree1302&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasree1302&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tejasree1302&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
